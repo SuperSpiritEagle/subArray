@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayRepetitions", "SubarrayRepetitions\SubarrayRepetitions.csproj", "{F5DA831C-CA0D-467B-9414-8B082F2DD74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DA831C-CA0D-467B-9414-8B082F2DD74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DA831C-CA0D-467B-9414-8B082F2DD74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DA831C-CA0D-467B-9414-8B082F2DD74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DA831C-CA0D-467B-9414-8B082F2DD74D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3DF94C-C21A-46AC-A8C5-405DCBD4BB5D}
+	EndGlobalSection
+EndGlobal
